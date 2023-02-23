@@ -1,0 +1,3 @@
+# Pool42
+
+The "pool" program is a 4-week intensive introduction to the world of coding, where participants will fully immerse themselves in the field. This is akin to a marathon, where they will dive deep and work on IT projects every day, including weekends, for a month. The program also offers a chance for participants to connect with other applicants, as well as to submit and evaluate projects. Anyone can participate in the "pool" program, regardless of their IT knowledge, as the only prerequisite is to know how to use a computer. Essentially, the program is a fresh start and an excellent opportunity for those who want to embark on a new journey into the world of coding.
